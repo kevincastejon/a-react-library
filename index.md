@@ -20,11 +20,11 @@ A placeholder for making open source react components/library
 <a name="overview"></a>
 ## Overview
 
-- [Documentation](https://kevincastejon.github.io/kc-my-component/documentation)
-- [Quick demo](https://kevincastejon.github.io/kc-my-component/)
-- [Storybook playground](https://kevincastejon.github.io/kc-my-component/storybook)
+- [Documentation](https://.github.io/kc-my-component)
+- [Quick demo](https://.github.io/kc-my-component/demo)
+- [Storybook playground](https://.github.io/kc-my-component/storybook)
 - [NPM](https://www.npmjs.com/package/kc-my-component)
-- [Github](https://github.com/kevincastejon/kc-my-component)
+- [Github](https://github.com//kc-my-component)
 
 <a name="install"></a>
 ## Installation

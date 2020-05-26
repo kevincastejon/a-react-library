@@ -1,11 +1,11 @@
-# my-react-library
+# kc-my-component
 
-![npm_version](https://img.shields.io/npm/v/my-react-library)
-![license](https://img.shields.io/npm/l/my-react-library)
+![npm_version](https://img.shields.io/npm/v/kc-my-component)
+![license](https://img.shields.io/npm/l/kc-my-component)
 
 A placeholder for making open source react components/library
 
-<!-- ![my-react-library preview](https://my-social-preview-image-url) -->
+<!-- ![kc-my-component preview](https://my-social-preview-image-url) -->
 
 -----
 
@@ -20,16 +20,16 @@ A placeholder for making open source react components/library
 <a name="overview"></a>
 ## Overview
 
-- [Documentation](https://kevincastejon.github.io/my-react-library/documentation)
-- [Quick demo](https://kevincastejon.github.io/my-react-library/)
-- [Storybook playground](https://kevincastejon.github.io/my-react-library/storybook)
-- [NPM](https://www.npmjs.com/package/my-react-library)
-- [Github](https://github.com/kevincastejon/my-react-library)
+- [Documentation](https://kevincastejon.github.io/kc-my-component/documentation)
+- [Quick demo](https://kevincastejon.github.io/kc-my-component/)
+- [Storybook playground](https://kevincastejon.github.io/kc-my-component/storybook)
+- [NPM](https://www.npmjs.com/package/kc-my-component)
+- [Github](https://github.com/kevincastejon/kc-my-component)
 
 <a name="install"></a>
 ## Installation
 ```bash
-npm install my-react-library
+npm install kc-my-component
 ```
 
 <a name="usage"></a>
@@ -109,6 +109,9 @@ Will deploy the built apps from 'build' folder to the 'gh-pages' github branch
 #### Helper scripts
 - `yarn build-and-deploy` This helper script will call all the scripts for a complete GitHub building and deploying (`yarn build && yarn deploy-github-page`)
 - `yarn publish-build-and-deploy` This helper script will call all the scripts for a complete NPM and GitHub transpiling/building and publishing/deploying (`yarn publish && yarn build-and-deploy`)
+
+
+You should then commit and push sources on GitHub the usual way.
 
 
 

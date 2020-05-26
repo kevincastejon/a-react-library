@@ -1,11 +1,11 @@
-# kc-my-component
+# a-react-library
 
-![npm_version](https://img.shields.io/npm/v/kc-my-component)
-![license](https://img.shields.io/npm/l/kc-my-component)
+![npm_version](https://img.shields.io/npm/v/a-react-library)
+![license](https://img.shields.io/npm/l/a-react-library)
 
 A placeholder for making open source react components/library
 
-<!-- ![kc-my-component preview](https://my-social-preview-image-url) -->
+<!-- ![a-react-library preview](https://my-social-preview-image-url) -->
 
 -----
 
@@ -20,16 +20,16 @@ A placeholder for making open source react components/library
 <a name="overview"></a>
 ## Overview
 
-- [Documentation](https://.github.io/kc-my-component)
-- [Quick demo](https://.github.io/kc-my-component/demo)
-- [Storybook playground](https://.github.io/kc-my-component/storybook)
-- [NPM](https://www.npmjs.com/package/kc-my-component)
-- [Github](https://github.com//kc-my-component)
+- [Documentation](https://kevincastejon.github.io/a-react-library/)
+- [Quick demo](https://kevincastejon.github.io/a-react-library/demo)
+- [Storybook playground](https://kevincastejon.github.io/a-react-library/storybook)
+- [NPM](https://www.npmjs.com/package/a-react-library)
+- [Github](https://github.com/kevincastejon/a-react-library.git)
 
 <a name="install"></a>
 ## Installation
 ```bash
-npm install kc-my-component
+npm install a-react-library
 ```
 
 <a name="usage"></a>

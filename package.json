@@ -1,7 +1,7 @@
 {
   "name": "a-react-library",
   "description": "A placeholder for making open source react components/library",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "private": false,
   "main": "dist/index.js",
   "storybookPage": "https://kevincastejon.github.io/a-react-library/storybook",
@@ -71,6 +71,7 @@
     "eslint-plugin-react-hooks": "^2.5.1",
     "file-cli": "^1.2.0",
     "gh-pages": "^2.2.0",
+    "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"

@@ -1,11 +1,11 @@
-# my-react-library
+# a-react-library
 
-![npm_version](https://img.shields.io/npm/v/my-react-library)
-![license](https://img.shields.io/npm/l/my-react-library)
+![npm_version](https://img.shields.io/npm/v/a-react-library)
+![license](https://img.shields.io/npm/l/a-react-library)
 
 A placeholder for making open source react components/library
 
-<!-- ![my-react-library preview](https://my-social-preview-image-url) -->
+<!-- ![a-react-library preview](https://my-social-preview-image-url) -->
 
 -----
 
@@ -20,16 +20,16 @@ A placeholder for making open source react components/library
 <a name="overview"></a>
 ## Overview
 
-- [Documentation](https://kevincastejon.github.io/my-react-library/documentation)
-- [Quick demo](https://kevincastejon.github.io/my-react-library/)
-- [Storybook playground](https://kevincastejon.github.io/my-react-library/storybook)
-- [NPM](https://www.npmjs.com/package/my-react-library)
-- [Github](https://github.com/kevincastejon/my-react-library)
+- [Documentation](https://kevincastejon.github.io/a-react-library/)
+- [Quick demo](https://kevincastejon.github.io/a-react-library/demo)
+- [Storybook playground](https://kevincastejon.github.io/a-react-library/storybook)
+- [NPM](https://www.npmjs.com/package/a-react-library)
+- [Github](https://github.com/kevincastejon/a-react-library.git)
 
 <a name="install"></a>
 ## Installation
 ```bash
-npm install my-react-library
+npm install a-react-library
 ```
 
 <a name="usage"></a>
@@ -109,6 +109,9 @@ Will deploy the built apps from 'build' folder to the 'gh-pages' github branch
 #### Helper scripts
 - `yarn build-and-deploy` This helper script will call all the scripts for a complete GitHub building and deploying (`yarn build && yarn deploy-github-page`)
 - `yarn publish-build-and-deploy` This helper script will call all the scripts for a complete NPM and GitHub transpiling/building and publishing/deploying (`yarn publish && yarn build-and-deploy`)
+
+
+You should then commit and push sources on GitHub the usual way.
 
 
 

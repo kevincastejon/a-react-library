@@ -38,3 +38,6 @@ Will deploy the built apps from 'build' folder to the 'gh-pages' github branch
 #### Helper scripts
 - `yarn build-and-deploy` This helper script will call all the scripts for a complete GitHub building and deploying (`yarn build && yarn deploy-github-page`)
 - `yarn publish-build-and-deploy` This helper script will call all the scripts for a complete NPM and GitHub transpiling/building and publishing/deploying (`yarn publish && yarn build-and-deploy`)
+
+
+You should then commit and push sources on GitHub the usual way.

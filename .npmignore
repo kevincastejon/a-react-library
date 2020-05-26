@@ -1,7 +1,15 @@
 src
-examples
 .babelrc
 .gitignore
-webpack.config.js
+.gitattributes
+.git
 public
 .git
+dist
+build
+.storybook
+template.handlebars
+usage_readme.md
+setup_readme.md
+dev_readme.md
+.eslintrc.js

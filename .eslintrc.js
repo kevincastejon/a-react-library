@@ -29,7 +29,8 @@ module.exports = {
       {
         devDependencies: [
           '.storybook/**',
-          'src/stories/**'
+          'src/stories/**',
+          'src/lib/**'
         ]
       }
     ]

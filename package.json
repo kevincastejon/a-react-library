@@ -1,10 +1,10 @@
 {
   "name": "kc-my-component",
   "description": "A placeholder for making open source react components/library",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "private": false,
   "main": "dist/index.js",
-  "homepage": "demo",
+  "homepage": "/demo",
   "dependencies": {},
   "scripts": {
     "start": "react-scripts start",

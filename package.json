@@ -1,7 +1,7 @@
 {
-  "name": "my-react-library",
+  "name": "kc-my-component",
   "description": "A placeholder for making open source react components/library",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "private": false,
   "main": "dist/index.js",
   "homepage": "demo",
@@ -70,5 +70,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
-  }
+  },
+  "repository": "https://github.com/kevincastejon/my-react-library.git",
+  "author": "Kevin Castejon <contact@kevincastejon.fr>",
+  "license": "MIT"
 }
